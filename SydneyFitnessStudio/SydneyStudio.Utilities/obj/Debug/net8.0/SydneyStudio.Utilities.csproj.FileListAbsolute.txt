@@ -1,0 +1,11 @@
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\bin\Debug\net8.0\SydneyStudio.Utilities.deps.json
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\bin\Debug\net8.0\SydneyStudio.Utilities.dll
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\bin\Debug\net8.0\SydneyStudio.Utilities.pdb
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\SydneyStudio.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\SydneyStudio.Utilities.AssemblyInfoInputs.cache
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\SydneyStudio.Utilities.AssemblyInfo.cs
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\SydneyStudio.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\SydneyStudio.Utilities.dll
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\refint\SydneyStudio.Utilities.dll
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\SydneyStudio.Utilities.pdb
+C:\Users\Public\Project\Trial\SydneyFitnessStudio\SydneyStudio.Utilities\obj\Debug\net8.0\ref\SydneyStudio.Utilities.dll

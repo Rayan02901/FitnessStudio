@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneystudio.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|solutionrelative:sydneystudio.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneystudio.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|solutionrelative:sydneystudio.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Migrations\\20240907133525_SeedClassTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SydneyStudio.DataAccess\\Migrations\\20240907133525_SeedClassTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneystudio.dataaccess\\migrations\\20240907133503_addclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|solutionrelative:sydneystudio.dataaccess\\migrations\\20240907133503_addclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\views\\class\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\views\\class\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7BFB55-A8B0-4E04-B267-D59AAD49F7F8}|SydneyStudio.Models\\SydneyStudio.Models.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneystudio.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7BFB55-A8B0-4E04-B267-D59AAD49F7F8}|SydneyStudio.Models\\SydneyStudio.Models.csproj|solutionrelative:sydneystudio.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\views\\class\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\views\\class\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7BFB55-A8B0-4E04-B267-D59AAD49F7F8}|SydneyStudio.Models\\SydneyStudio.Models.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneystudio.models\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7BFB55-A8B0-4E04-B267-D59AAD49F7F8}|SydneyStudio.Models\\SydneyStudio.Models.csproj|solutionrelative:sydneystudio.models\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneystudio.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742B5BDC-5901-4411-929C-1A00256415A0}|SydneyStudio.DataAccess\\SydneyStudio.DataAccess.csproj|solutionrelative:sydneystudio.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7BFB55-A8B0-4E04-B267-D59AAD49F7F8}|SydneyStudio.Models\\SydneyStudio.Models.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneystudio.models\\sydneystudio.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC7BFB55-A8B0-4E04-B267-D59AAD49F7F8}|SydneyStudio.Models\\SydneyStudio.Models.csproj|solutionrelative:sydneystudio.models\\sydneystudio.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\views\\class\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\views\\class\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Migrations\\20240907112955_SeedClassTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SydneyFitnessStudio\\Migrations\\20240907112955_SeedClassTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Migrations\\20240907111748_AddClassTAbleToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SydneyFitnessStudio\\Migrations\\20240907111748_AddClassTAbleToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|c:\\users\\public\\project\\trial\\sydneyfitnessstudio\\sydneyfitnessstudio\\sydneyfitnessstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA96340E-2E7D-4920-BF59-62F965654264}|SydneyFitnessStudio\\SydneyFitnessStudio.csproj|solutionrelative:sydneyfitnessstudio\\sydneyfitnessstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "SydneyStudio.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "SydneyStudio.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:40:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "SydneyStudio.DataAccess\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Repository\\IRepository.cs",
+              "RelativeToolTip": "SydneyStudio.DataAccess\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:38:31.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240907133525_SeedClassTable.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Migrations\\20240907133525_SeedClassTable.cs",
+              "RelativeDocumentMoniker": "SydneyStudio.DataAccess\\Migrations\\20240907133525_SeedClassTable.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Migrations\\20240907133525_SeedClassTable.cs",
+              "RelativeToolTip": "SydneyStudio.DataAccess\\Migrations\\20240907133525_SeedClassTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:35:25.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240907133503_addclassmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Migrations\\20240907133503_addclassmodel.cs",
+              "RelativeDocumentMoniker": "SydneyStudio.DataAccess\\Migrations\\20240907133503_addclassmodel.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Migrations\\20240907133503_addclassmodel.cs",
+              "RelativeToolTip": "SydneyStudio.DataAccess\\Migrations\\20240907133503_addclassmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:35:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SydneyFitnessStudio\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T13:33:11.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SydneyFitnessStudio\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:32:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.Models\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SydneyStudio.Models\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.Models\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SydneyStudio.Models\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:30:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.Models\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "SydneyStudio.Models\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.Models\\Models\\Class.cs",
+              "RelativeToolTip": "SydneyStudio.Models\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:19:33.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Views\\Class\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Delete.cshtml",
+              "RelativeToolTip": "SydneyFitnessStudio\\Views\\Class\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T13:02:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Views\\Class\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Edit.cshtml",
+              "RelativeToolTip": "SydneyFitnessStudio\\Views\\Class\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T12:12:02.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "SydneyFitnessStudio\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:18:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SydneyStudio.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SydneyStudio.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:18:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SydneyStudio.Models",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.Models\\SydneyStudio.Models.csproj",
+              "RelativeDocumentMoniker": "SydneyStudio.Models\\SydneyStudio.Models.csproj",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyStudio.Models\\SydneyStudio.Models.csproj",
+              "RelativeToolTip": "SydneyStudio.Models\\SydneyStudio.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T13:12:50.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Create.cshtml",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Views\\Class\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Create.cshtml",
+              "RelativeToolTip": "SydneyFitnessStudio\\Views\\Class\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T11:47:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Program.cs",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Program.cs",
+              "RelativeToolTip": "SydneyFitnessStudio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:11:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\appsettings.json",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\appsettings.json",
+              "RelativeToolTip": "SydneyFitnessStudio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T11:05:45.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240907112955_SeedClassTable.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Migrations\\20240907112955_SeedClassTable.cs",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Migrations\\20240907112955_SeedClassTable.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Migrations\\20240907112955_SeedClassTable.cs",
+              "RelativeToolTip": "SydneyFitnessStudio\\Migrations\\20240907112955_SeedClassTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:29:55.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SydneyFitnessStudio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T11:20:54.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Index.cshtml",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Views\\Class\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Views\\Class\\Index.cshtml",
+              "RelativeToolTip": "SydneyFitnessStudio\\Views\\Class\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T11:19:21.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240907111748_AddClassTAbleToDb.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Migrations\\20240907111748_AddClassTAbleToDb.cs",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\Migrations\\20240907111748_AddClassTAbleToDb.cs",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\Migrations\\20240907111748_AddClassTAbleToDb.cs",
+              "RelativeToolTip": "SydneyFitnessStudio\\Migrations\\20240907111748_AddClassTAbleToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:17:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SydneyFitnessStudio",
+              "DocumentMoniker": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\SydneyFitnessStudio.csproj",
+              "RelativeDocumentMoniker": "SydneyFitnessStudio\\SydneyFitnessStudio.csproj",
+              "ToolTip": "C:\\Users\\Public\\Project\\Trial\\SydneyFitnessStudio\\SydneyFitnessStudio\\SydneyFitnessStudio.csproj",
+              "RelativeToolTip": "SydneyFitnessStudio\\SydneyFitnessStudio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T11:10:09.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
